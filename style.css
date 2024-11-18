@@ -1,0 +1,12 @@
+body{ background-image: url("scarybg.jpg");
+    font-size: large;
+    
+    }
+.scarybed{
+ width: 400px;
+ height: 300px;
+display: flex;
+}
+p{
+    color:red
+}
