@@ -6,6 +6,7 @@ body{ background-image: url("scarybg.jpg");
  width: 400px;
  height: 300px;
 display: flex;
+flex-direction: column;
 }
 p{
     color:red
