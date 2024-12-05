@@ -1,13 +1,20 @@
 body{ background-image: url("scarybg.jpg");
-    font-size: large;
-    
+    justify-content: center;
     }
-.scarybed{
+.bed{
  width: 400px;
  height: 300px;
-display: flex;
-flex-direction: column;
 }
 p{
     color:red
+}
+h1{
+    color:red
+}
+div{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    width:400px;
+    margin: 0 auto;
 }
