@@ -1,15 +1,18 @@
 body{ background-image: url("scarybg.jpg");
     justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
     }
 .bed{
  width: 400px;
  height: 300px;
 }
 p{
-    color:red
+    color:rgb(184, 0, 0)
 }
 h1{
-    color:red
+    color:rgb(179, 0, 0)
 }
 div{
     display:flex;
